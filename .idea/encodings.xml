@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ssm-mutil-module" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ssm-mutil-module-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ssm-mutil-module-parent/ssm-mutil-module-controller" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ssm-mutil-module-parent/ssm-mutil-module-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ssm-mutil-module-parent/ssm-mutil-module-entity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ssm-mutil-module-parent/ssm-mutil-module-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ssm-uni-module" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ssm-xml-controller" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ssm-xml-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ssm-xml-entity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ssm-xml-multi-module" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ssm-xml-service" charset="UTF-8" />
+  </component>
+</project>

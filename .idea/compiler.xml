@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ssm-xml-dao" />
+        <module name="ssm-mutil-module-service" />
+        <module name="ssm-mutil-module-dao" />
+        <module name="ssm-xml-controller" />
+        <module name="ssm-mutil-module-controller" />
+        <module name="ssm-xml-service" />
+        <module name="ssm-uni-module" />
+        <module name="ssm-xml-entity" />
+        <module name="ssm-mutil-module-entity" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ssm-xml-multi-module" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
